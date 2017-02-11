@@ -16,4 +16,8 @@ public class sub {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void print(String ax){
+		
+		System.out.println(ax);
+	}
 }
